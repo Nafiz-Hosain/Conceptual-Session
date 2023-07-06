@@ -36,3 +36,22 @@ right to left text - Arabic text
 
     cursor: url("https://freepngimg.com/thumb/emoji/4-2-smiling-face-with-sunglasses-cool-emoji-png.png"),auto;
 }
+
+
+css
+----
+display: flex;
+
+justify-content: space-between;
+
+align-items: center;
+
+flex-direction:initial;
+
+display: flex;
+
+height: 500px;
+justify-content: space-between;
+align-items:center;
+flex-direction:;
+background-color: grey;

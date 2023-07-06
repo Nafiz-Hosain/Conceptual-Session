@@ -10,3 +10,31 @@
 
     cursor: url("https://freepngimg.com/thumb/emoji/4-2-smiling-face-with-sunglasses-cool-emoji-png.png"),auto;
 }
+.box{
+    padding: 10px;
+    background-color: skyblue;
+    width: 120px;
+    height: 120px;
+    
+    
+}
+.container{
+    display: flex;
+    height: 500px;
+    justify-content: space-between;
+    align-items:center;
+    flex-direction: initial;
+    background-color: grey;
+
+
+
+    
+}
+
+.box2 {
+    background-color: gold;
+
+}
+.box3 {
+    background-color: brown;
+}
