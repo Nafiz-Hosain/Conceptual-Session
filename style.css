@@ -71,3 +71,45 @@
     border-radius: 5px;
     cursor: pointer;
 }
+
+.about_heading{
+    text-align: center;
+}
+.about_container{
+    
+    display: flex;
+    justify-content: space-around;
+    /* align-items: center; */
+    /* height: 500px; */
+    /* flex-direction: row-reverse; */
+    /* padding: 10px; */
+    margin-top: 40px;
+}
+.about_text{
+    
+}
+
+.box{
+    width: 230px;
+    height: 250px;
+    box-shadow: 4px 4px 15px grey;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+.icon{
+    width: 70px;
+}
+.service_container{
+    display: flex;
+    justify-content: space-around;
+}
+.OurService_section h1 {
+    text-align: center;
+}
+.OurService_section{
+    background-color: aquamarine;
+    margin-bottom: 100px;
+    padding-bottom: 100px;
+    
+}
