@@ -1,0 +1,38 @@
+time tag
+
+<time datetime="2008-02-14 20:00">Valentines day</time>
+
+
+right to left text - Arabic text
+
+<bdo dir=""> <h1>Bnagladesh</h1></bdo>
+
+<sub>subscript</sub>
+
+<sup>superscript</sup>
+
+<abbr title="This is Country"><h1>Bnagladesh</h1></abbr>
+
+<label for="pg">Disk</label>
+
+<meter id="pg" value="0.5"></meter>
+
+<progress id="pg" value=""></progress>
+
+<details>
+    <summary>Hello this is test</summary>
+
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa exercitationem quae totam veniam quaerat quis?</p>
+
+</details>
+
+
+
+.test:hover{
+    
+    color: red;
+    /* cursor: pointer; */
+    /* cursor: url("https://freepngimg.com/thumb/emoji/4-2-smiling-face-with-sunglasses-cool-emoji-png.png"),auto; */
+
+    cursor: url("https://freepngimg.com/thumb/emoji/4-2-smiling-face-with-sunglasses-cool-emoji-png.png"),auto;
+}

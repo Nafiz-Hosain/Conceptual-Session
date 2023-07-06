@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.test:full{
+    
+    /* color: red; */
+    /* cursor: pointer; */
+    /* cursor: url("https://freepngimg.com/thumb/emoji/4-2-smiling-face-with-sunglasses-cool-emoji-png.png"),auto; */
+
+    cursor: url("https://freepngimg.com/thumb/emoji/4-2-smiling-face-with-sunglasses-cool-emoji-png.png"),auto;
+}
